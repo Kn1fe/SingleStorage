@@ -1,0 +1,8 @@
+C:\Users\kn1fe\source\repos\SingleStorage\StorageExample\bin\Debug\StorageExample.exe
+C:\Users\kn1fe\source\repos\SingleStorage\StorageExample\bin\Debug\StorageExample.pdb
+C:\Users\kn1fe\source\repos\SingleStorage\StorageExample\bin\Debug\SingleStorage.dll
+C:\Users\kn1fe\source\repos\SingleStorage\StorageExample\bin\Debug\SingleStorage.pdb
+C:\Users\kn1fe\source\repos\SingleStorage\StorageExample\obj\Debug\StorageExample.csprojResolveAssemblyReference.cache
+C:\Users\kn1fe\source\repos\SingleStorage\StorageExample\obj\Debug\StorageExample.csproj.CoreCompileInputs.cache
+C:\Users\kn1fe\source\repos\SingleStorage\StorageExample\obj\Debug\StorageExample.exe
+C:\Users\kn1fe\source\repos\SingleStorage\StorageExample\obj\Debug\StorageExample.pdb
